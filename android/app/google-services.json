@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823301608707",
+    "project_id": "sail-assistant",
+    "storage_bucket": "sail-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823301608707:android:55553f75e0968f9d9f0536",
+        "android_client_info": {
+          "package_name": "com.kzg.sail_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxhsW4IlvIw2eKJAPXZ-vAk7Cn_FO-fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

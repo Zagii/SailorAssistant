@@ -1,4 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dodaj uprawnienie do internetu -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:label="sail_assistant"
         android:name="${applicationName}"
