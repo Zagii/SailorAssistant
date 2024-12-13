@@ -6,7 +6,7 @@ buildscript {
         mavenCentral()  // Repozytorium Maven Central
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.4.0'  // Upewnij się, że wersja jest aktualna
+        classpath 'com.android.tools.build:gradle:7.4.2'  // Upewnij się, że wersja jest aktualna
         classpath 'com.google.gms:google-services:4.4.2'  // Wersja google-services
     }
 }
